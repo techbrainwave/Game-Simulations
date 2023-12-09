@@ -16,7 +16,7 @@ puted and visualized as histograms.
 Any stochastic process that possesses the Markov property is called a
 Markov chain.
 
-## Game 
+## The Game 
 
 >There are two players, A and B. At the beginning
 of the game, each starts with 4 coins, and there are 2 coins in the pot. A goes first,
@@ -36,7 +36,9 @@ then B completing their turns. The exception is if a player goes out; that is th
 final cycle (but it still counts as the last cycle).
 
 
-### Run
+<img src="https://github.com/techbrainwave/Game-Simulation/blob/main/cycle-count.png" alt="cycle count" width="300"/>
+
+## Simulation Run
 
 1. Open a Python console (Python version 3.7 or later) and navigate to the directory containing the file `anothergame.py`.
 2. Run the command `python anothergame.py`
