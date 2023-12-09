@@ -38,6 +38,6 @@ final cycle (but it still counts as the last cycle).
 
 ### Run
 
-1. Open a Python console (Python version 3.7 or later) and navigate to the directory containing the file "anothergame.py".
-2. Run the command >python anothergame.py
+1. Open a Python console (Python version 3.7 or later) and navigate to the directory containing the file `anothergame.py`.
+2. Run the command `python anothergame.py`
 3. Results will be displayed and the histogram will be downloaded as image in the same directory. 
