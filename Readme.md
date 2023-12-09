@@ -2,15 +2,8 @@
 
 Simulation involves modeling and creating artificial representations of real-world systems to understand their behavior or make predictions. 
 
-Simulation study has many applications. One such ap-
-plication is in the area of game development. In this work a pro-
-gram oriented simulation of a two player game is conducted with
-the goal of finding out the duration to which it would last. While
-a simulation provided empirical results on a fixed set of runs of the
-game, an application of an analytical method derived the expected
-value for the duration of each game. Distribution of frequencies for
-the number of cycles of a game set in the simulations were com-
-puted and visualized as histograms.
+Simulation study has many applications. One such application is in the area of game development. In this work a program oriented simulation of a two player game is conducted with
+the goal of finding out the duration to which it would last. While a simulation provided empirical results on a fixed set of runs of the game, an application of an analytical method derived the expected value for the duration of each game. Distribution of frequencies for the number of cycles of a game set in the simulations were computed and visualized as histograms.
 
 ## Markov chain
 Any stochastic process that possesses the Markov property is called a
